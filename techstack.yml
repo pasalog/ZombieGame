@@ -1,0 +1,20 @@
+repo_name: pasalog/ZombieGame
+report_id: 82b35791a3eb1be3420d761e34fe3b29
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-11T21:56:14+00:00'
+requested_by: IamGamze
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/pasalog/ZombieGame
+  detection_source: Repo Metadata
